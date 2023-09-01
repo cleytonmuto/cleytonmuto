@@ -13,7 +13,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,nodejs,java,spring,mysql,python,postgresql,vscode,git,bash,bootstrap,c,cpp,discord,django,docker,eclipse,express,firebase,github,hibernate,latex,linux,matlab,maven,mongodb,octave,postman,sass,stackoverflow,sequelize,svg,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,sass,react,next,vite,nodejs,express,python,django,java,eclipse,spring,maven,hibernate,mysql,postgresql,sequelize,firebase,mongodb,bootstrap,bash,c,cpp,docker,latex,linux,matlab,octave,postman,vscode,git" />
   </a>
 </p>
   
